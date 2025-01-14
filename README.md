@@ -1,0 +1,1 @@
+In the summer of 2024, I worked at Oak Ridge National Laboratory doing IoT research.  Specifically, I research potential vulnerabilities in Smart Vacuums.  The poster gives an overview of all the work I did, and the paper goes more indepth on the processes completed.
